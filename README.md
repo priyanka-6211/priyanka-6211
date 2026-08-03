@@ -1,7 +1,7 @@
 ![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhrcWUwcTVmbDI0OTc0ZWpvd2Rmc3c0Z2g2NnRkaHNqeno1NDV3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
 <h1 align="center">Hi 👋, I'm Priyanka Chowdhury !</h1>
 <h3 align="center">A passionate CS student at Independent University, Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="Y2lkPTc5MGI3NjExMWdyOXFqanJseHNnMmw1bWZidnIwb2Z5NmdqMm9uNnZzZTV6a3k1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdyOXFqanJseHNnMmw1bWZidnIwb2Z5NmdqMm9uNnZzZTV6a3k1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3WbP16qf0itF6C2cS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-6211&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-6211" /> </p>
 
